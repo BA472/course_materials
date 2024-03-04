@@ -4,7 +4,7 @@ Below is a suggested timeline for the project. Note that only the Presentation a
 
 - Finalize groups (4 to 5 people) (by March 20)
 - Proposal for experiment approved by me (by April 3 at the latest)
-- Have you run a pilot study? (by April 10 at the latest)
+- Have you run a pilot study? (by April 15 at the latest)
 - Have you run the experiment? (by April 22 at the latest)
 - Presentation (April 29 / May 1)
 - Writeup (End of Day May 1)
